@@ -5,6 +5,10 @@ type RemoteConfig = {
 
 export const RemoteConfigs: RemoteConfig[] = [
     {
+        key: "Private_RULES",
+        value: "https://sturl.lookvip888.top/PrivateRules.ini"
+    },
+    {
         key: "ACL_默认版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
     },
